@@ -1,11 +1,12 @@
 # Stone Paper Scissor Game 
   # JAVA Programming language
   In this Repository there is a small game project in which there is a use of Random function in JAVA Language.<br>
-
-     <b>
-     In this Program I have used the characters 0,1,2 for representing the Stone, Paper and Scissor and the random variable is set from the computer system itself and will display its choice when the user enters his
+  In this Program I have used the characters 0,1,2 for representing the Stone, Paper and Scissor and the random variable is set from the computer system itself and will display its choice when the user enters his
      choice.
-     </b>
+
+         
+
+
      
   # PYTHON Programming language
 
